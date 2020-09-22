@@ -1,4 +1,5 @@
 # Below are the list of of imported modules and defined variables used in this program.
+# Random module & function found at https://docs.python.org/3.1/library/random.html.
 import random
     
 random_number = ()
